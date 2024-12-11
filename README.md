@@ -1,3 +1,3 @@
 # Computer Workshop Course
-# Sharif University of Technology
-# Fall 1402
+Sharif University of Technology
+Fall 1402
